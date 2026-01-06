@@ -1,5 +1,3 @@
-from langchain.agents.react.base import DocstoreExplorer
-from langchain_community.docstore.wikipedia import Wikipedia
 from langchain.tools import Tool
 from docstore_setup import docstore
 
