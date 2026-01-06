@@ -1,0 +1,7 @@
+langchain-openai
+langchain
+langchain-core
+langchain-community
+python-dotenv
+openai
+wikipedia
